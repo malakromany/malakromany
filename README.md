@@ -1,11 +1,11 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Malak</h1>
 <h3 align="center">Fresh Full Stack Web Development using MEARN</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47863dfg6yki3gevy5ot5x8p2tufmjdev06u2yyd05&rid=200.webp&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakromany&label=Profile%20views&color=0e75b6&style=flat" alt="malakromany" /> </p>
 
-- 📫 How to reach me **malak.romany.dev@gmail.com**
+- 📫 How to reach me **eng.malak.mr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malakromany&show_icons=true&locale=en" alt="malakromany" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malakromany&" alt="malakromany" /></p>
+
